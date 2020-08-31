@@ -25,4 +25,4 @@ What we want to do in the app, search on the recyclerview and open a new activit
 
 ## License
 
-- Copyright 2015 © <a href="https://github.com/ahmetbozkan" target="_blank">Ahmet Bozkan</a>.
+- Copyright 2020 © <a href="https://github.com/ahmetbozkan" target="_blank">Ahmet Bozkan</a>.
